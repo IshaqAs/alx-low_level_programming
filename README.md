@@ -1,2 +1,1 @@
-Low-level programming
-Learning to code in C
+Low-level programming (learning to code in C language)
