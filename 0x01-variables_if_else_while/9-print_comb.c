@@ -17,7 +17,7 @@ int main(void)
 		if (num == 9)
 			continue;
 		putchar(',');
-		putchar('\n')
+		putchar(' ');
 	}
 
 	putchar('\n');
